@@ -19,3 +19,6 @@ char *_strpbrk(char *s, char *accept);
 /*function that locates a substring*/
 char *_strstr(char *haystack, char *needle);
 
+/*function that prints the chessboard*/
+void print_chessboard(char (*a)[8]);
+

@@ -1,1 +1,0 @@
-The c bit manipulation
